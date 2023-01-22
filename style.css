@@ -2,11 +2,11 @@
 
 @font-face {
     font-family: 'Tenor';
-    src: url('https://web.archive.org/web/20181119221248im_/http://www.fanfaresansfrontieres.org/css/fonts/TenorSans-Regular.ttf');
+    src: url('TenorSans-Regular.ttf');
 }
 @font-face {
     font-family: 'Timeless';
-    src: url('https://web.archive.org/web/20181119221248im_/http://www.fanfaresansfrontieres.org/css/fonts/Timeless.ttf');
+    src: url('Timeless.ttf');
 }
 body{
     background-color: #a7a7a7;
@@ -1210,24 +1210,3 @@ section .box:not(.snippet) {
         padding-bottom:15px;
     }
 }
-/*
-     FILE ARCHIVED ON 22:12:48 Nov 19, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 12:52:59 Jan 17, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 3050.59
-  exclusion.robots: 0.199
-  exclusion.robots.policy: 0.181
-  cdx.remote: 0.143
-  esindex: 0.018
-  LoadShardBlock: 48.859 (3)
-  PetaboxLoader3.datanode: 117.112 (5)
-  CDXLines.iter: 26.122 (3)
-  load_resource: 227.208 (2)
-  PetaboxLoader3.resolve: 139.875 (2)
-*/
