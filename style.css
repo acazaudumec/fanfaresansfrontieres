@@ -291,7 +291,7 @@ nav.affix{
 
 section > .background-image{
     position: absolute;
-    top:-220px;
+    top:-120px;
     z-index:0;
     min-width:100% !important;
     max-width: 120%;
