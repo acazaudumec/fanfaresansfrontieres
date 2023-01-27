@@ -333,10 +333,18 @@ section > .background-image{
     }
 }
 .box{
-	background: #d98810;
+	background: white;
 	padding : 15px;
 	border-radius : 0px;
 }
+
+.boxasso{
+    background-color: #f5cb85;
+    color:rgb(93, 93, 93);
+	padding : 15px;
+	border-radius : 0px;
+}
+
 .shadow{
 	-moz-box-shadow: 1px 1px 2px -0.5px #7B8182;
 	-webkit-box-shadow: 1px 1px 2px -0.5px #7B8182;
