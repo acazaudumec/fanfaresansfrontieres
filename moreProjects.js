@@ -26,24 +26,3 @@ $('#moreProjects').click(function(){
 });
 
 }
-/*
-     FILE ARCHIVED ON 13:45:08 Nov 09, 2020 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 17:53:43 Jan 18, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 397.546
-  exclusion.robots: 0.102
-  exclusion.robots.policy: 0.093
-  RedisCDXSource: 49.998
-  esindex: 0.014
-  LoadShardBlock: 325.257 (3)
-  PetaboxLoader3.resolve: 660.46 (4)
-  PetaboxLoader3.datanode: 73.735 (5)
-  CDXLines.iter: 19.525 (3)
-  load_resource: 460.019 (2)
-*/

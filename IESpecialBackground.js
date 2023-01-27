@@ -26,24 +26,3 @@ function IESpecialBackground(srcNotIE,  classe, position){
 }
 
 }
-/*
-     FILE ARCHIVED ON 19:53:22 Nov 19, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:30:42 Jan 23, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 468.843
-  exclusion.robots: 0.093
-  exclusion.robots.policy: 0.084
-  cdx.remote: 0.073
-  esindex: 0.009
-  LoadShardBlock: 435.537 (3)
-  PetaboxLoader3.datanode: 96.073 (5)
-  CDXLines.iter: 19.258 (3)
-  PetaboxLoader3.resolve: 567.193 (3)
-  load_resource: 247.423 (2)
-*/

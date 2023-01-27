@@ -44,24 +44,3 @@ $( document ).ready(function() {
     
 
 }
-/*
-     FILE ARCHIVED ON 21:43:07 Nov 19, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 18:05:30 Jan 18, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 212.598
-  exclusion.robots: 0.087
-  exclusion.robots.policy: 0.078
-  RedisCDXSource: 136.329
-  esindex: 0.013
-  LoadShardBlock: 50.97 (3)
-  PetaboxLoader3.datanode: 72.365 (5)
-  CDXLines.iter: 22.452 (3)
-  load_resource: 1804.064 (2)
-  PetaboxLoader3.resolve: 1716.446 (2)
-*/

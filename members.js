@@ -52,24 +52,3 @@ function activateMember(i){
     });
 
 }
-/*
-     FILE ARCHIVED ON 19:47:54 Nov 19, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:31:47 Jan 23, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 136.025
-  exclusion.robots: 0.118
-  exclusion.robots.policy: 0.106
-  cdx.remote: 0.152
-  esindex: 0.017
-  LoadShardBlock: 101.57 (3)
-  PetaboxLoader3.datanode: 158.284 (5)
-  CDXLines.iter: 20.85 (3)
-  PetaboxLoader3.resolve: 167.098 (3)
-  load_resource: 228.941 (2)
-*/
