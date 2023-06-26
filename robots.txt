@@ -1,0 +1,4 @@
+Sitemap: https://github.com/acazaudumec/fanfaresansfrontieres/blob/site-fsf-v2/sitemap.xml
+
+User-agent: *
+Disallow:
